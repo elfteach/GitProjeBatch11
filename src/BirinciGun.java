@@ -9,6 +9,7 @@ public class BirinciGun {
 		System.out.println("ikinci Gun");
 		System.out.println("10:26 ikinci gun");
 		
-	} 
+		System.out.println("ben burada conflict beklemiyorum..");
+	}  
 	 
 }
